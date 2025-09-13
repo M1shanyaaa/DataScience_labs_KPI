@@ -4,20 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c725877-95f4-4548-8c6a-a305fa7072cb" name="Changes" comment="lab_0.1">
-      <change afterPath="$PROJECT_DIR$/Lab1/DD_lab1.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab1/Lab6 (3).ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2/DD_lab2.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2/Lab2.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2/amazon.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/DD_lab3.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/Lab3.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/my_file.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab4/Lab4.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="1c725877-95f4-4548-8c6a-a305fa7072cb" name="Changes" comment="lab1-3">
+      <change afterPath="$PROJECT_DIR$/Lab4/Salary_dataset.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab1/Lab1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/Lab1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab4/Lab4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Lab4/Lab4.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +50,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mishanya\PycharmProjects\Foundation_KPI_DataScience\Lab4" />
       <recent name="C:\Users\Mishanya\PycharmProjects\Foundation_KPI_DataScience\Lab3" />
       <recent name="C:\Users\Mishanya\PycharmProjects\Foundation_KPI_DataScience\Lab2" />
       <recent name="C:\Users\Mishanya\PycharmProjects\Foundation_KPI_DataScience\Lab1" />
@@ -93,6 +84,8 @@
       <workItem from="1757481961598" duration="8742000" />
       <workItem from="1757591768404" duration="817000" />
       <workItem from="1757595315757" duration="99000" />
+      <workItem from="1757663766490" duration="38000" />
+      <workItem from="1757699452238" duration="626000" />
     </task>
     <task id="LOCAL-00001" summary="lab_0.1 (pandas methods)">
       <option name="closed" value="true" />
@@ -118,7 +111,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756907462504</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="lab1-3">
+      <option name="closed" value="true" />
+      <created>1757663794160</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1757663794160</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,7 +128,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="lab_0.1 (pandas methods)" />
     <MESSAGE value="lab_0.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab_0.1" />
+    <MESSAGE value="lab1-3" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab1-3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Foundation_KPI_DataScience$Lab1.coverage" NAME="Lab1 Coverage Results" MODIFIED="1756881865835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab1" />
