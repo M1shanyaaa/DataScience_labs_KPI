@@ -1,0 +1,1 @@
+import pandas as pds=pd.Series([1,10,5,18,121,24,45])print(s[20]==True)
